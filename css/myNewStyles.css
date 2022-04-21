@@ -1,0 +1,22 @@
+.normal {
+    font-weight: normal;
+    font-style: italic;
+}
+
+.newPclass {
+    font-style: italic;
+    color: rgb(84, 142, 165);
+    
+}
+
+ul {
+        color: rgb(0, 0, 131);
+}
+
+.center {
+    text-align: center;
+}
+
+img {
+    border-radius: 8px;
+  }
